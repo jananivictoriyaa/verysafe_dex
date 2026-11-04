@@ -1,0 +1,7 @@
+{
+  "name": "LedgerHear",
+  "displayName": "LedgerHear",
+  "plugins": [
+    "expo-speech-recognition"
+  ]
+}

@@ -1,0 +1,17 @@
+export const colors = {
+  primary: '#0F5C4A',
+  green: '#1E7B4A',
+  greenLight: '#DCE9E3',
+  mint: '#DCE9E3',
+  background: '#F2F4F3',
+  surface: '#FFFFFF',
+  white: '#FFFFFF',
+  text: '#12261F',
+  muted: '#5F716A',
+  border: '#DDE3E0',
+  orange: '#F2A33A',
+  halo: '#FAE3BF',
+  rust: '#B8430F',
+  rustLight: '#FBE5DA',
+  red: '#D9534F',
+};
